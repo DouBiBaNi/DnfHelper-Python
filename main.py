@@ -8,7 +8,7 @@ from plugins.driver import init_driver
 if __name__ == '__main__':
     try:
         globle.cmd = "cmd"
-        init_driver("LoveRw")
+        init_driver("Randw")
         logger.info("驱动加载成功", 1)
 
         model_name = "DNF.exe"
